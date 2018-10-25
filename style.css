@@ -1,0 +1,117 @@
+#top {
+    text-align: right;   
+}
+
+body {
+    
+     font-family: monospace;
+     font-size:150%;
+     text-align: center;     
+}
+
+h1 {
+    color: white;
+    font-style: underline;
+    font-family:"cooper black";
+    font-size: 140%;
+    margin-top:150px ;     
+}
+
+header {
+    text-align: center;
+    margin: 18px;
+    padding:30px;
+    margin-top: 5px;
+    padding-top: 20px;
+    padding-bottom:50px;  
+}
+
+header p{
+    margin:90px;
+    text-align: center;
+}
+
+/* pp */
+header img{
+    border:2px solid slategray;
+    border-radius: 50%;
+    margin-top:5px;
+     
+}
+
+article {
+    
+    margin: 10px;
+    padding:20px;
+    padding-top: 5px;
+    padding-bottom:1px;
+    border-bottom: 1px; 
+    border-top:5px solid black;
+    border-bottom: 5px solid black;    
+}
+
+p {
+    padding:10px;    
+}
+
+body h2{
+    padding-left: 10px;
+    text-underline-position: below;
+    font-family: "century gothic", "century regular"   
+}
+
+h3{
+    padding-left:15px;
+}
+
+section{
+    background-color: dimgray  ;
+    border:1px solid rgb(150, 129, 129);
+    box-sizing: border-box;        
+}
+
+section img{
+    border:3px solid gray;       
+}
+
+#nav{
+    border: 2px solid rgb(182, 169, 169);
+    font-size: 90%;
+    position: fixed;
+    float: right;
+    padding-left:5px;
+    background-color: rgb(157, 167, 175);
+    max-width: 20%;
+}
+
+nav ul li{
+    display: inline-block;
+    margin:1px;
+    margin-bottom:1px;
+    margin-left:10px;
+    margin-right:10px ; 
+    text-align: right;
+    padding-left: 0px;
+    box-sizing: border-box;
+}
+
+nav ul{
+    padding-left: 2px;
+    max-width: 480px;
+}
+
+#first{
+    margin-top:100px;
+}
+
+html{
+    background-image: url("./images/IMG6.jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#copyright{
+    color:white;
+    font-size:50%;
+    text-align:left;
+}
