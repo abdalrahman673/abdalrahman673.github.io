@@ -99,6 +99,9 @@ nav ul{
     padding-left: 2px;
     max-width: 480px;
 }
+nav a{
+    color:black;
+}
 
 #first{
     margin-top:100px;
