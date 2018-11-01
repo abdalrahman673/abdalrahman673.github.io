@@ -1,0 +1,46 @@
+html{
+    background-color: rgba(0, 0, 0,0.85);
+    color:azure;
+    font-size: 3vh;
+}
+h1{
+    text-align: center;
+    padding:15px;
+    font-family: "Brittanic Bold" ,"Bodoni MT"
+}
+ td,th {
+    border: 3px  solid rgb(0, 0, 15);
+    padding:40px;
+    color:rgb(233, 233, 233);
+    font-size: 25px;
+} 
+#won{
+    font-style: italic;
+    color:silver;
+    font-size:25px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.cell{
+    height:5vh;
+
+}
+#turn{
+    text-align:center;
+    padding:15px;
+}
+table{
+    margin: auto;
+    background-color: rgb(94, 94, 94);
+    border-collapse: collapse;
+}
+#button{
+    font-size: 24px;
+    border:0;
+    background-color: rgb(43, 32, 32);
+    color: rgb(196, 190, 190);
+    margin-left:570px;
+    margin-top: 15px;
+    
+    
+}
