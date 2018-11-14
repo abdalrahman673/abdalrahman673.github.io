@@ -66,7 +66,7 @@ h3{
 
 section{
     background-color: dimgray  ;
-    border:1px solid rgb(150, 129, 129);
+    border:1px solid rgb(151, 147, 147);
     box-sizing: border-box;        
 }
 
@@ -75,13 +75,13 @@ section img{
 }
 
 #nav{
-    border: 2px solid rgb(182, 169, 169);
-    font-size: 90%;
+    border: 2px solid rgb(2, 0, 0);
+    font-size: 95%;
     position: fixed;
-    float: right;
     padding-left:5px;
-    background-color: rgb(157, 167, 175);
-    max-width: 20%;
+    background-color: rgb(66, 104, 145);
+    min-width: 80vh;
+    margin-top:0;     
 }
 
 nav ul li{
@@ -90,7 +90,6 @@ nav ul li{
     margin-bottom:1px;
     margin-left:10px;
     margin-right:10px ; 
-    text-align: right;
     padding-left: 0px;
     box-sizing: border-box;
 }
