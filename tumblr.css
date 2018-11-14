@@ -1,0 +1,52 @@
+html img{
+    height: 200px;
+    vertical-align:middle;
+    /* display: inline-block */
+}
+li{
+    display:inline-block;
+    padding:5px;
+}
+html{
+    background-color: aliceblue;
+}
+h1{
+    font-family: "bookman old style","constantia" ;
+    text-align: center;
+    font-size:7vh ;
+    color:darkslategray ;
+    padding: 5px;
+}
+.buttons{
+    font-size: 3.5vh;
+    padding:13px;
+    border-radius:15px;
+    background-color:rgb(192, 238, 236); 
+}
+
+body{
+    font-family:"arial rounded MT","century"  ;
+}
+#first{
+    /* padding:15px; */
+    padding-left:420px;
+
+}
+#query-form{
+    padding-left:350px;
+    font-size:5vh;
+}
+#button{
+    font-size:3vh;
+    color:rgb(167, 211, 250);
+    /* background-color:rgba(0, 0, 0, 0.7); */
+    border-radius:8px;
+    background-color:rgb(212, 226, 226);
+    color:black;
+}
+#query{
+    font-size:3vh;
+    border-radius:8px;
+    background-color: rgb(222, 236, 236);
+}
+
